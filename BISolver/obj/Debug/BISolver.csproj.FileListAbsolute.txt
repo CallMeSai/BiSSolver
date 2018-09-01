@@ -1,0 +1,13 @@
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\obj\Debug\BISolver.csprojAssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\obj\Debug\BISolver.Form1.resources
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\obj\Debug\BISolver.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\obj\Debug\BISolver.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\obj\Debug\BISolver.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\bin\Debug\BISolver.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\bin\Debug\BISolver.exe
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\bin\Debug\BISolver.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\obj\Debug\BISolver.exe
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\obj\Debug\BISolver.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\bin\Debug\Newtonsoft.Json.dll
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\bin\Debug\Newtonsoft.Json.xml
+D:\Program Files (x86)\Microsoft Visual Studio\repos\BISolver\BISolver\obj\Debug\BISolver.csproj.CopyComplete
